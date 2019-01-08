@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLite_test</string>
+    <string name="welcome">Welcome to App</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="log">Login</string>
+    <string name="out">Logout</string>
+    <string name="add">Add Employee</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="salary">Salary</string>
+    <string name="job">Job</string>
+    <string name="save">Save</string>
+    <string name="id">Id</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
